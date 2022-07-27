@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",MSNBC
+https://msnbc1.akamaized.net/hls/live/2021744/MSNBC0f2497d0/clear/hdntl=exp=1658918156~acl=%2f*~data=hdntl~hmac=bf1d5bbfdaad3cb10c5457022448ae7a2d7ecf4acf5dba5460f2987b40bc32d1/VIDEO_0_6596000.m3u8
