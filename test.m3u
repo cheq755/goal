@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",MSNBC
-https://msnbc1.akamaized.net/hls/live/2021744/MSNBC0f2497d0/clear/hdntl=exp=1659180802~acl=%2f*~data=hdntl~hmac=b82834d91639f46c4dfcab64656d5e6518ecb355845a19a7387aa8c676d964e8/VIDEO_0_6596000.m3u8
+#https://msnbc1.akamaized.net/hls/live/2021744/MSNBC0f2497d0/clear/hdntl=exp=1659929313~acl=%2f*~data=hdntl~hmac=921fc0ff428b3ba235380f601c0c976635aa77e3c5b2ab8d98806a3b86fe8794/VIDEO_0_6596000.m3u8
